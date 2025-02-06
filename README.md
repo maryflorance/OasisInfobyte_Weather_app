@@ -12,3 +12,7 @@ This is a Python-based weather application that uses the OpenWeatherMap API and 
 - Python 3.x
 - Tkinter (included by default in Python installations)
 - Requests library
+
+## I have shared a detailed project explanation on LinkedIn. Click the link below to watch it.
+
+https://www.linkedin.com/posts/maryflorancebonthapuri_weatherapp-pythondevelopment-gui-activity-7284489415672954880-1Xe-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEpaxioBrevjXbz2F1wY61oT1HwY7w-FalI
